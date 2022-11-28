@@ -134,11 +134,13 @@ Remove unwanted Applications.
 
          vim ~/.bashrc
          
+         
          #############add line #############
          export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
          export
          LD_LIBRARY_PATh=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
          export LD_PRELOAD=/usr/lib/aarch64-linux-gnu/libgomp.so.1
+         
          
          source ~/.bashrc
         
