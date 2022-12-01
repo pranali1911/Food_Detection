@@ -222,6 +222,12 @@ Remove unwanted Applications.
 # DEMO :
 
 
+
+
+
+https://user-images.githubusercontent.com/101402562/205008562-738e05c3-4b01-4238-a576-b5331941ca9c.mp4
+
+
 # ADVANTAGES 
 
 
