@@ -236,22 +236,11 @@ https://user-images.githubusercontent.com/101402562/205008562-738e05c3-4b01-4238
 
 • Eating healthy foods is the cornerstone of good health status and also lower your risk for developing health problems, so this model is very useful and beneficial  for peoples to choose good foods and prevent from getting sick from diseases.
 
-# APPLICATION
-
-
-
-
-
-
-
 
 # FUTURE SCOPE
 
-
-
-
-
-
+• As we know technology is marching towards automation, so this project is one of the step towards automation.
+• Thus, for more accurate results it needs to be trained for more images, and for a greater number of epochs.
 
 # CONCLUSION
 
