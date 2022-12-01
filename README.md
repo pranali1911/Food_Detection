@@ -123,8 +123,8 @@ This Module is divided into two parts:
 
 Remove unwanted Applications.
 
-     sudo apt-get remove --purge libreoffice*
-     sudo apt-get remove --purge thunderbird*
+    sudo apt-get remove --purge libreoffice*
+    sudo apt-get remove --purge thunderbird* 
      
 # Create Swap file
 
@@ -133,9 +133,9 @@ Remove unwanted Applications.
     sudo mkswap /swapfile1
     sudo vim /etc/fstab
     
-    
     #################add line###########
     /swapfile1 swap swap defaults 0 0
+ 
 
 # Cuda Configuration
 
