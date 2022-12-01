@@ -55,6 +55,13 @@
 
 • Junk food are highly processed foods loaded with calories, sugar and fat, however, it is devoid of essential nutrients like fibre, vitamins, minerals and antioxidants. It is believed to be a key factor in the obesity epidemic and a driving force in the development of chronic diseases. Eating Healthy food reduces the chances of getting sick from various diseases.
 
+# Jetson Nano
+
+
+![nano_img01](https://user-images.githubusercontent.com/101402562/204990571-57d8df82-58c5-46b4-b4b5-f785e78e9996.jpg)
+
+
+
 # Jetson Nano Compatibility
 
 • The power of modern AI is now available for makers, learners, and embedded developers everywhere.
