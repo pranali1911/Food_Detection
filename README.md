@@ -107,7 +107,7 @@ This Module is divided into two parts:
 
 • This Datasets identifies food in a Bitmap graphic object and returns the bounding box image with annotation of windows present in each image.
 
-2] Clarity Detection
+2] Quality Detection
 
 • Classification of the food based on whether it is Healthy or junk food.
 
@@ -209,12 +209,12 @@ Remove unwanted Applications.
          sudo python3 detect.py
          sudo python3 detect.py --weights yolov5s.pt --source 0
          
-# Window Dataset Training
+# Food Dataset Training
 
 # We used Google Colab And Roboflow
   train your model on colab and download the weights and past them into yolov5 folder link of project
 
-# Running Window Detection Model
+# Running Food Detection Model
  source '0' for webcam
 
         !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0         
@@ -230,4 +230,41 @@ https://user-images.githubusercontent.com/101402562/205008562-738e05c3-4b01-4238
 
 # ADVANTAGES 
 
+• This food detection system is very useful for peoples for choosing Good and healthy food to Eat which can prevent them  from Various Diseases and  Risks of getting sick.
 
+• It is useful for peoples  to avoid the negative health risks to, diet needs to be nutritional and diverse,Small changes in diet can make an immense difference  to everyones  health.
+
+• Junk food can result in long-term damage, going for unhealthy food stuffs like French fries, pizza, pastries and candy can increase your risk of developing depression, obesity, heart disease and cancer which may also cause to death.
+
+• Eating healthy foods is the cornerstone of good health status and also lower your risk for developing health problems, so this model is very useful and beneficial  for peoples to choose good foods and prevent from getting sick from diseases.
+
+# APPLICATION
+
+
+
+
+
+
+
+
+# FUTURE SCOPE
+
+
+
+
+
+
+
+# CONCLUSION
+
+• In this project our model is trying to detect food detection and then showing it on viewfinder, live as to whether Helmet is worn or not as we have specified in Roboflow.
+
+• The model tries to solve the problem of severe head injuries that occur due to accidents and thus protects a person’s life.
+
+• The model is efficient and highly accurate and hence reduces the workforce required.
+
+# Refrences
+
+1]Roboflow :- https://roboflow.com/
+
+2] Google images
